@@ -1,6 +1,6 @@
 # Predictive Maintenance for Aerospace Systems — RUL Prediction
 
-**Cheng (Tony) Ke, Felipe Villanueva, Yicun (Ethan) Wu**
+**Yicun (Ethan) Wu, Cheng (Tony) Ke, Felipe Villanueva**
 Department of Electrical and Computer Engineering, University of Rochester
 
 Predicts the **Remaining Useful Life (RUL)** of aircraft turbofan engines — i.e. how many more operating cycles an engine has before it needs maintenance — from multivariate sensor data, using the NASA CMAPSS FD001 dataset. Five modeling approaches (one statistical baseline, three CNN/RNN architectures, and one exploratory extension) are implemented and compared to find out which best captures engine degradation over time.
